@@ -13,5 +13,6 @@ public class Regex {
         System.out.println("only number "+modify);
         modify = str.replaceAll("\\s","");
         System.out.println("remove space "+modify);
+
     }
 }
